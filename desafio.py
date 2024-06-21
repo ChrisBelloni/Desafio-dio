@@ -17,3 +17,5 @@ elif 9001 <= XPnivel <= 10000:
     print("O Herói de nome", NomedoHeroi, "está no nível de Imortal")
 elif XPnivel >= 10001:
     print("O Herói de nome", NomedoHeroi, "está no nível de Radiante")
+
+    
